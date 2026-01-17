@@ -1,4 +1,4 @@
 ## Team Members
-- Christopher Lei
-- Bossle Mendes
 - Sergio Coria
+- Christopher Lei Bossle Mendes
+
