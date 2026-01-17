@@ -1,1 +1,4 @@
-# wdd430-team16-project
+## Team Members
+- Christopher Lei
+- Bossle Mendes
+- Sergio Coria
